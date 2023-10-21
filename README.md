@@ -1,5 +1,5 @@
 # How Attributes of National Development Affect Happiness
-We clean and analyzed a dataset from the World Happiness Report 2017, found [here](https://data.world/laurel/world-happiness-report-data). This dataset contains many attributes of national development of many countries over various years. We were looking to find any relationships between attributes such as happiness levels, life expectancy, and social support. 
+We clean and analyzed a dataset from the World Happiness Report 2017, found [here](https://data.world/laurel/world-happiness-report-data). This dataset contains many attributes of national development of many countries over various years. We were looking to find any relationships between attributes such as happiness levels, life expectancy, and social support. Attatched are the original dataset, the cleaned version, and the code with all of the graphs.
 
 # Analysis
 We used the pandas, numpy, and matplotlib libraries in order to analyze the data. We created dot plot and elbows graphs in order to use algorithms such as k-means clustering. These graphs and algortihms allowed us to determine if a relationship between attributes existed and how strongly they were related. Some of the graphs are displayed below. 
